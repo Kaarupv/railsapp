@@ -14,7 +14,7 @@ to find gems https://rubygems.org/
 for setting up ruby for development:
 https://www.youtube.com/watch?v=WHVqcN3S_jI
 
-to create database entries: ```
+to create database entries:
 
 ```
 rails g scaffold Entry meal_type:string calories:integer
